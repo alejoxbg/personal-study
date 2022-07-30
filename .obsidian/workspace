@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction to Backend Development Course/Class 10 Framework.md",
+            "file": "Backend Architecture/Class 10 Design review.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Backend Development Course/Class 10 Framework.md",
+                "file": "Backend Architecture/Class 10 Design review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Backend Development Course/Class 10 Framework.md",
+                "file": "Backend Architecture/Class 10 Design review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Backend Development Course/Class 10 Framework.md"
+                "file": "Backend Architecture/Class 10 Design review.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "64479ee6ae7188ff",
   "lastOpenFiles": [
-    "Introduction to Backend Development Course/Class 7 8 9Design an API.md",
-    "Introduction to Backend Development Course/Class 8 Designing endpoints.md",
-    "Introduction to Backend Development Course/Class 3 how the frontend get connected with the backend.md",
-    "Introduction to Backend Development Course/Class 6 The server.md",
-    "Introduction to Backend Development Course/Class 5 workflow to develop a web application.md",
-    "Introduction to Backend Development Course/Class 4 HTTP.md",
-    "Introduction to Backend Development Course/Class 2 Framework vs Library.md",
-    "Introduction to Backend Development Course/Class 1 Frontend and backend.md",
-    "UntitledWhat this.md",
-    "Introduction to Backend Development Course/This course will show you.md"
+    "Untitled 1.md",
+    "Untitled.md",
+    "Backend Architecture/Class 9 Create Design document.md",
+    "Backend Architecture/Class 8 Design document.md",
+    "Backend Architecture/Class 7 Definiton and requirements.md",
+    "Backend Architecture/Class 6 Recap and proyect.md",
+    "Backend Architecture/Class 5 how is connected?.md",
+    "Backend Architecture/Class 4 Elements of a distributed system.md",
+    "Backend Architecture/Class 3 Distributed systems.md",
+    "Backend Architecture/Class 2 What is backend.md"
   ]
 }
