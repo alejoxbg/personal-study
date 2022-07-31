@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backend Architecture/Class 10 Design review.md",
+            "file": "Backend Architecture/Class 15 Recab and sugestions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Architecture/Class 10 Design review.md",
+                "file": "Backend Architecture/Class 15 Recab and sugestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Architecture/Class 10 Design review.md",
+                "file": "Backend Architecture/Class 15 Recab and sugestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Architecture/Class 10 Design review.md"
+                "file": "Backend Architecture/Class 15 Recab and sugestions.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "64479ee6ae7188ff",
   "lastOpenFiles": [
+    "Backend Architecture/Class 14 Code complete.md",
+    "Backend Architecture/Class 13 Continuous integration plan.md",
+    "Backend Architecture/Class 12 Low level design and CI-CD.md",
+    "Backend Architecture/Class 11 Creating the achitecture.md",
+    "Backend Architecture/Class 10 Design review.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Backend Architecture/Class 9 Create Design document.md",
     "Backend Architecture/Class 8 Design document.md",
     "Backend Architecture/Class 7 Definiton and requirements.md",
-    "Backend Architecture/Class 6 Recap and proyect.md",
-    "Backend Architecture/Class 5 how is connected?.md",
-    "Backend Architecture/Class 4 Elements of a distributed system.md",
-    "Backend Architecture/Class 3 Distributed systems.md",
-    "Backend Architecture/Class 2 What is backend.md"
+    "Backend Architecture/Class 6 Recap and proyect.md"
   ]
 }
