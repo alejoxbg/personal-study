@@ -1,0 +1,1 @@
+As you can store anything from files to registers you can give to each register a row key and theri corresponding columns family or column

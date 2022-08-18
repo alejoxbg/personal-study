@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction to GCP/Class 19 Rol IAM.md",
+            "file": "Cloud Storage GCP/Class 11 Firestore.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to GCP/Class 19 Rol IAM.md",
+                "file": "Cloud Storage GCP/Class 11 Firestore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to GCP/Class 19 Rol IAM.md",
+                "file": "Cloud Storage GCP/Class 11 Firestore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to GCP/Class 19 Rol IAM.md"
+                "file": "Cloud Storage GCP/Class 11 Firestore.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "64479ee6ae7188ff",
   "lastOpenFiles": [
-    "Introduction to GCP/Class 18 IAM identity abd access control.md",
-    "Introduction to GCP/Class 17 Resources Herarchy.md",
-    "Introduction to GCP/Class 14 Budget and billing.md",
-    "Introduction to GCP/Class 13 how our data is protected.md",
-    "Introduction to GCP/Class 12 Many security layers.md",
-    "Introduction to GCP/Class 11 Benefits of GCP.md",
-    "Introduction to GCP/Class 10 Open APIs.md",
-    "Introduction to GCP/Class 9 Enviroment responsability.md",
-    "Introduction to GCP/Class 8 Regions and zones.md",
-    "Introduction to GCP/Class 7 Google network.md"
+    "Cloud Storage GCP/Class 13 comparison.md",
+    "Cloud Storage GCP/Class 11 Firestore.md",
+    "Cloud Storage GCP/Class 10 Cloud Spanner.md",
+    "Cloud Storage GCP/Class 9 Cloud SQL.md",
+    "Cloud Storage GCP/Class 8 Big table and how to use it.md",
+    "Cloud Storage GCP/Class 7 Big Table.md",
+    "Cloud Storage GCP/Class 6 Types of storage and configuration.md",
+    "Cloud Storage GCP/Class 5 Types of storage.md",
+    "Cloud Storage GCP/Class 4 Google storage in action.md",
+    "Cloud Storage GCP/Class 3 Use Cases.md"
   ]
 }
