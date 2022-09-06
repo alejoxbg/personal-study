@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Storage GCP/Class 11 Firestore.md",
+            "file": "Virtual Machines/Class 7 VM families.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Storage GCP/Class 11 Firestore.md",
+                "file": "Virtual Machines/Class 7 VM families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Storage GCP/Class 11 Firestore.md",
+                "file": "Virtual Machines/Class 7 VM families.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Storage GCP/Class 11 Firestore.md"
+                "file": "Virtual Machines/Class 7 VM families.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "64479ee6ae7188ff",
   "lastOpenFiles": [
-    "Cloud Storage GCP/Class 13 comparison.md",
+    "Virtual Machines/Class 6 Introduction to Compute engine.md",
+    "Virtual Machines/Class 5 Connectivity between VPCs.md",
+    "Virtual Machines/Class 4 Capabilities of VCP.md",
+    "Virtual Machines/Class 3 VCP in GCP.md",
+    "Virtual Machines/Class 2 VPC.md",
     "Cloud Storage GCP/Class 11 Firestore.md",
+    "Cloud Storage GCP/Class 13 comparison.md",
     "Cloud Storage GCP/Class 10 Cloud Spanner.md",
     "Cloud Storage GCP/Class 9 Cloud SQL.md",
-    "Cloud Storage GCP/Class 8 Big table and how to use it.md",
-    "Cloud Storage GCP/Class 7 Big Table.md",
-    "Cloud Storage GCP/Class 6 Types of storage and configuration.md",
-    "Cloud Storage GCP/Class 5 Types of storage.md",
-    "Cloud Storage GCP/Class 4 Google storage in action.md",
-    "Cloud Storage GCP/Class 3 Use Cases.md"
+    "Cloud Storage GCP/Class 8 Big table and how to use it.md"
   ]
 }
